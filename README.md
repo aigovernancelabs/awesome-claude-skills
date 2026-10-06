@@ -213,6 +213,7 @@
 - [webapp-testing](https://github.com/anthropics/skills/tree/main/skills/webapp-testing) - Toolkit for interacting with and testing local web applications using Playwright.
 - [ironclaw-agent-guard](https://github.com/wd041216-bit/ironclaw-agent-guard) - Security review skill and CLI/MCP companion for risky tool calls, prompt injection, secret redaction, and audit-friendly agent workflows.
 - [shellward-security-guide](https://github.com/jnMetaCode/shellward/tree/main/skills/security-guide) - AI agent security guide for prompt injection, DLP, dangerous command blocking, and PII scanning.
+- [ai-governance-control-audit](https://github.com/aigovernancelabs/ai-governance-control-audit) - Audits what an AI system actually implements, not what its policy says: scores 9 governance controls (audit logs, guardrails, human approval, tenant isolation, agent authority) on code evidence, flags policy-vs-code contradictions, and returns engineering tickets.
 
 
 
